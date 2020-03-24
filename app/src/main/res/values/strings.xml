@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DummyNotepad</string>
+    <string name="title">Your title here!</string>
+    <string name="note">Your note here...</string>
+    <string name="strOKButton">OK</string>
+    <string name="strCancelButton">CANCEL</string>
+</resources>
